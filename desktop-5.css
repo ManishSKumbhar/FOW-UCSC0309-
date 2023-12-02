@@ -1,0 +1,284 @@
+.frame-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray);
+  width: 1440px;
+  height: 202px;
+}
+.signup1 {
+  position: absolute;
+  top: 45px;
+  left: 1224px;
+  font-size: var(--font-size-11xl);
+}
+.featured1,
+.login1,
+.pricing1 {
+  position: absolute;
+  top: 55px;
+  left: 280px;
+}
+.login1,
+.pricing1 {
+  left: 834px;
+}
+.login1 {
+  top: 45px;
+  left: 1087px;
+  font-size: var(--font-size-11xl);
+}
+.all-categories1,
+.top-categories1 {
+  position: absolute;
+  top: 55px;
+  left: 430px;
+}
+.all-categories1 {
+  left: 639px;
+}
+.whatsapp-image-2023-11-24-at-71 {
+  position: absolute;
+  top: 16px;
+  left: 0;
+  width: 249px;
+  height: 186px;
+  object-fit: cover;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 202px;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-gainsboro-200);
+  font-family: var(--font-inter);
+}
+.image-1-icon1 {
+  position: absolute;
+  top: 303px;
+  left: 217px;
+  width: 283px;
+  height: 366px;
+  object-fit: cover;
+}
+.deadpool-32 {
+  position: absolute;
+  top: 315px;
+  left: 599px;
+  font-size: var(--font-size-41xl);
+  display: inline-block;
+  width: 388px;
+  height: 73px;
+}
+.releasing-on-july {
+  margin: 0;
+}
+.releasing-on-july-container {
+  top: 465px;
+  left: 599px;
+  font-size: var(--font-size-21xl);
+  font-weight: 600;
+  width: 642px;
+  height: 47px;
+}
+.div,
+.releasing-on-july-container,
+.wolverine-joins-the {
+  position: absolute;
+  display: inline-block;
+}
+.div {
+  top: 400px;
+  left: 870px;
+  font-size: var(--font-size-21xl);
+  font-weight: 600;
+  width: 189px;
+  height: 47px;
+}
+.wolverine-joins-the {
+  top: 532px;
+  left: 599px;
+  font-weight: 500;
+  width: 542px;
+  height: 89px;
+}
+.desktop-5-child,
+.desktop-5-inner,
+.desktop-5-item {
+  position: absolute;
+  top: 654px;
+  left: 611px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gainsboro-100);
+  width: 136px;
+  height: 60px;
+  mix-blend-mode: overlay;
+}
+.desktop-5-inner,
+.desktop-5-item {
+  left: 821px;
+  width: 149px;
+}
+.desktop-5-inner {
+  top: 649px;
+  left: 1013px;
+}
+.frame-div {
+  position: absolute;
+  top: 737px;
+  left: 771px;
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+}
+.action,
+.comedy {
+  font-weight: 500;
+  height: 29px;
+}
+.action {
+  position: absolute;
+  top: 669px;
+  left: calc(50% - 81px);
+  display: inline-block;
+  width: 89px;
+}
+.comedy {
+  top: 664px;
+  left: calc(50% + 114px);
+  width: 118px;
+}
+.comedy,
+.photos,
+.sci-fi {
+  position: absolute;
+  display: inline-block;
+}
+.sci-fi {
+  top: 664px;
+  left: calc(50% + 324px);
+  font-weight: 500;
+  width: 97px;
+  height: 29px;
+}
+.photos {
+  margin: 0;
+  top: 795px;
+  left: 250px;
+  font-size: var(--font-size-41xl);
+  font-weight: 400;
+  font-family: var(--font-jockey-one);
+  width: 250px;
+  height: 83px;
+}
+.desktop-5-child1,
+.desktop-5-child2 {
+  position: absolute;
+  top: 804px;
+  left: 214px;
+  border-right: 6px solid var(--color-white);
+  box-sizing: border-box;
+  width: 6px;
+  height: 66px;
+}
+.desktop-5-child2 {
+  top: 2290px;
+}
+.image-10-icon,
+.image-11-icon,
+.image-9-icon {
+  position: absolute;
+  top: 926px;
+  left: 393px;
+  width: 666px;
+  height: 357.1px;
+  object-fit: cover;
+}
+.image-10-icon,
+.image-11-icon {
+  top: 1337px;
+  left: 387px;
+  height: 422px;
+}
+.image-11-icon {
+  top: 1812px;
+  left: 383px;
+  height: 421px;
+}
+.casting {
+  margin: 0;
+  position: absolute;
+  top: 2281px;
+  left: 268px;
+  font-size: var(--font-size-41xl);
+  font-weight: 400;
+  font-family: var(--font-jockey-one);
+  display: inline-block;
+  width: 250px;
+  height: 83px;
+}
+.image-12-icon {
+  position: absolute;
+  top: 2424px;
+  left: 213px;
+  width: 248px;
+  height: 188px;
+  object-fit: cover;
+}
+.hugh-jackman,
+.morena-baccarine,
+.ryan-reynolds {
+  position: absolute;
+  top: 2631px;
+  left: 223px;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-jockey-one);
+  text-align: center;
+  display: inline-block;
+  width: 234px;
+  height: 41px;
+}
+.hugh-jackman,
+.morena-baccarine {
+  left: 578px;
+}
+.hugh-jackman {
+  left: 882px;
+}
+.image-13-icon,
+.image-22-icon1,
+.image-23-icon {
+  position: absolute;
+  top: 2424px;
+  left: 596px;
+  width: 183px;
+  height: 180px;
+  object-fit: cover;
+}
+.image-22-icon1,
+.image-23-icon {
+  top: 400px;
+  left: 611px;
+  width: 210px;
+  height: 54px;
+}
+.image-23-icon {
+  top: 2424px;
+  left: 895px;
+  width: 184px;
+  height: 180px;
+}
+.desktop-5 {
+  position: relative;
+  background-color: var(--color-gray);
+  width: 100%;
+  height: 3293px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
